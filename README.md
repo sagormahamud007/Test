@@ -1,2 +1,2 @@
 # test
-https://github.com/sagormahamud007/test.git
+https://sagormahamud007.github.io/test/
